@@ -1,0 +1,29 @@
+
+/*Em HTLM e´ id = em CSS é  # (so para um elemento)
+EM HTML é class = em CSS é . (Para varios elementos)*/
+
+body {
+    background-color: chartreuse;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(65, 78, 40);
+}
+  
+h1#principal{
+    text-align: center;
+    background-color: rgb(220, 240, 39);
+    color: white;
+
+}
+
+h2 {
+    color: rgb(100, 71, 16);
+}
+.basico{
+    color: rgb(133, 64, 224);
+    font: 1,5em sans-serif;
+    background-color: yellow;
+    text-align: center;
+}
